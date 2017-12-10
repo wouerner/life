@@ -12,3 +12,5 @@
 - [ ] SSD para notebook.
 - [ ] Memoria para notebook
 - [ ] Prisma
+# Viagem
+- [ ] Viagem para Nordeste.
