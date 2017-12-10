@@ -5,3 +5,10 @@
 
 # Aprender
 - [ ] Kubernets
+
+# Compras
+- [ ] Teclado (https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=2018)
+- [ ] Cadeira para computador
+- [ ] SSD para notebook.
+- [ ] Memoria para notebook
+- [ ] Prisma
