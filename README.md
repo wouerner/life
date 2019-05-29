@@ -1,16 +1,60 @@
-# Lista de Tarefas
-- [ ] Curso de Vue.js.
-- [ ] Pos graduação em segurança da informação.
-- [ ] Fazer mais um curso de blockchain.
-
-# Aprender
-- [ ] Kubernets
-
-# Compras
-- [ ] Teclado (https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=2018)
-- [ ] Cadeira para computador
-- [ ] SSD para notebook.
-- [ ] Memoria para notebook
-- [ ] Prisma
-# Viagem
-- [ ] Viagem para Nordeste.
+git
+gitlab
+github
+Subversion
+PHP
+Symfony
+Laravel
+Lumen
+ZendFramework
+Javascript
+jQuery
+Vue
+React
+Angular
+Python
+Datascience
+Ruby
+Ruby on Rails
+Vim
+Shellscript
+Vagrant
+Docker
+Kubernets
+Openshift
+Docker-compose
+DigitalOcean
+GCP
+SQLServer
+Oracle
+PostgreSQL
+MySql
+Sqlite
+Linux
+Slackware
+Ubuntu
+Debian
+GraphQL
+Rest API
+Nginx
+Apache
+Haskell
+SSL
+Rust
+Rocket.chat
+Sentry
+CSS
+HTML
+Bitcoin
+Etherium
+Dash
+TDD
+DDD
+Joomla
+Drupal
+Vuetify
+MongoDB
+Codeigniter
+Bootstrap
+Bulma
+Jenkins
