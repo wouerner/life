@@ -58,3 +58,16 @@ Codeigniter
 Bootstrap
 Bulma
 Jenkins
+
+
+
+## Hardware
+Notebook Dell Inspirion 15 4000,00
+Teclado Cooler Master 500,00
+Mochila Dell 180,00
+Mouse 90,00
+Celular Mi9 SE 2000,00
+Fone de ouvido 350,00
+
+
+
