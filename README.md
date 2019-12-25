@@ -73,6 +73,8 @@ Jenkins
 | Total | 7120,00 |
 |cadeira||
 |mesa||
+|pelicula para notebook| 180,00|
+|carregador reserva|90,00|
 
 
 
