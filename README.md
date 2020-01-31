@@ -71,7 +71,7 @@ Jenkins
 |Celular Mi9 SE | 2000,00 | 
 |Fone de ouvido | 350,00  |
 | Total | 7120,00 |
-|cadeira||
+|cadeira| 1700,00|
 |mesa||
 |pelicula para notebook| 180,00|
 |carregador reserva|90,00|
