@@ -75,6 +75,7 @@ Jenkins
 |mesa||
 |pelicula para notebook| 180,00|
 |carregador reserva|90,00|
+|Multifuncional Impressoa/Scanner|1000,00|
 
 
 
